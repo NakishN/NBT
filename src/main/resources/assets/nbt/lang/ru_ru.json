@@ -1,0 +1,40 @@
+{
+  "key.categories.nbt": "NBT Tooltip",
+  "key.nbt.copy_nbt": "Копировать NBT",
+  "key.nbt.copy_nbt_json": "Копировать NBT как JSON",
+
+  "nbt.config.title": "Настройки NBT Tooltip",
+  "nbt.config.enabled": "Включить NBT подсказки",
+  "nbt.config.enabled.tooltip": "Включить или выключить показ NBT данных в подсказках предметов",
+  "nbt.config.requireAdvancedTooltips": "Требовать расширенные подсказки",
+  "nbt.config.requireAdvancedTooltips.tooltip": "Показывать NBT только когда включены расширенные подсказки (F3+H)",
+  "nbt.config.maxTooltipLines": "Максимум строк в подсказке",
+  "nbt.config.maxTooltipLines.tooltip": "Максимальное количество строк NBT для показа одновременно",
+  "nbt.config.scrollSpeed": "Скорость прокрутки",
+  "nbt.config.scrollSpeed.tooltip": "Скорость автопрокрутки длинных NBT данных",
+  "nbt.config.colorCoding": "Цветовое кодирование",
+  "nbt.config.colorCoding.tooltip": "Использовать разные цвета для разных типов NBT данных",
+  "nbt.config.tooltipFormat": "Формат подсказки",
+  "nbt.config.tooltipFormat.tooltip": "Формат отображения NBT в подсказках",
+  "nbt.config.copyFormat": "Формат копирования",
+  "nbt.config.copyFormat.tooltip": "Формат для копирования NBT в буфер обмена",
+  "nbt.config.showEmptyTags": "Показывать пустые теги",
+  "nbt.config.showEmptyTags.tooltip": "Показывать предметы с пустыми NBT тегами",
+
+  "nbt.format.human_readable": "Читаемый формат",
+  "nbt.format.json": "JSON",
+  "nbt.format.snbt": "SNBT",
+  "nbt.format.minimal": "Минимальный",
+
+  "nbt.tooltip.controls.pause": "SHIFT: Пауза",
+  "nbt.tooltip.controls.speedup": "ALT: Ускорить",
+  "nbt.tooltip.controls.copy": "Копировать NBT",
+  "nbt.tooltip.empty": "NBT: {}",
+  "nbt.tooltip.separator": "--- NBT Данные ---",
+  "nbt.tooltip.lines_info": "(%d-%d из %d строк)",
+
+  "nbt.message.no_item": "Нет предмета в руке для копирования NBT",
+  "nbt.message.copied_empty": "Скопированы пустые NBT данные",
+  "nbt.message.copied": "NBT скопированы в формате %s (%d символов)",
+  "nbt.message.error": "Ошибка при копировании NBT: %s"
+}
